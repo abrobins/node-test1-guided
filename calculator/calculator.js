@@ -6,7 +6,7 @@ function add(a = 0, b = 0) {
   return addedNum;
 }
 
-// Also would work
+// This code also would work for the add function
 // function add(...values) {
 //     return values.reduce((a, b) => a+b, 0)
 // }
